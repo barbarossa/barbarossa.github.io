@@ -1,0 +1,13 @@
+body {
+    font-family: Lato, Helvetica, Arial, sans-serif;
+}
+
+header, footer {
+    text-align: center;
+}
+
+
+a {
+    color: #e74c3c;
+    text-decoration: none;
+}
