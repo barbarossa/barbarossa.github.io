@@ -1,13 +1,25 @@
 body {
-    font-family: Lato, Helvetica, Arial, sans-serif;
+  font-family: Lato, Helvetica, Arial, sans-serif;
+
+  text-align: center;
+  width: 270px;
+  height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -75px 0 0 -135px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222;
+  margin: 0px 0px 20px;
 }
 
 header, footer {
-    text-align: center;
+  text-align: center;
 }
 
-
 a {
-    color: #e74c3c;
-    text-decoration: none;
+  color: #e74c3c;
+  text-decoration: none;
 }
